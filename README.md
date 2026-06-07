@@ -228,7 +228,7 @@ The dashboard empowers leadership with actionable insights to make informed work
 
 ### Employee Attrition Dashboard
 
-https://github.com/divyanshmani07-analytics/Employee-Attrition-Analysis-Dashboard/blob/main/Employee%20Attrition%20Dashboard.png
+![Employee Attrition Dashboard](https://github.com/divyanshmani07-analytics/Employee-Attrition-Analysis-Dashboard/blob/main/Employee%20Attrition%20Dashboard.png)
 
 ---
 
