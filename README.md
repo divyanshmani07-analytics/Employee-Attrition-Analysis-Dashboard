@@ -1,6 +1,6 @@
 # 📊 Employee Attrition Analysis Dashboard
 
-## 1. Project Title / Headline
+## 1. Project Title
 
 ### 👥 HR Analytics: Employee Attrition Analysis Dashboard
 
@@ -8,7 +8,7 @@ An interactive and insightful Power BI dashboard developed to analyze employee a
 
 ---
 
-## 2. Short Description / Purpose
+## 2. Purpose
 
 The Employee Attrition Analysis Dashboard is a Business Intelligence solution designed to help organizations understand why employees leave and identify factors influencing workforce turnover. Through interactive visualizations, KPI tracking, and detailed workforce analysis, the dashboard supports HR professionals in improving employee retention, workforce planning, and organizational performance.
 
@@ -53,7 +53,7 @@ The dataset represents a real-world HR scenario and is widely used for employee 
 
 ---
 
-## 5. Features / Highlights
+## 5. Highlights
 
 ### • Business Problem
 
@@ -224,7 +224,7 @@ The dashboard empowers leadership with actionable insights to make informed work
 
 ---
 
-## 6. Screenshots / Demos
+## 6. Attrition Dashboard
 
 ### Employee Attrition Dashboard
 
